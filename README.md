@@ -69,6 +69,4 @@ The project is built using:
 
 Feel free to fork the repository and submit pull requests for any improvements you'd like to make.
 
-## License
-
-This project is available under the MIT License. 
+ 
